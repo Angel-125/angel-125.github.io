@@ -1,7 +1,6 @@
 Home of:
 
 ![Image](WildBluePlacard.png)
-
 This page is dedicated to mods created for the [Kerbal Space Program](http://www.kerbalspaceprogram.com) by Squad.
 
 # Base Game Mods
